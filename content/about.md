@@ -1,7 +1,12 @@
-Title: Our Website
-Date: 2023-06-01
-Category: Info
+title: Party Information
+date: 2023-06-01
+name: test
+category: Info
 
 # Information
 
-This is our website
+## Party is August 6th.
+
+![cully sign]({static}/images/cully_sign.jpg)
+
+test
