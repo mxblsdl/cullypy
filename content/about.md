@@ -29,7 +29,7 @@ h3 {
 
 ## Party is August 5th.
 
-![cully sign](./images/flyer.png)
+![cully sign]({static}/../images/flyer.png)
 
 ## Amazon Wishlist
 Contribute items through the [Amazon Wishlist](https://www.amazon.com/hz/wishlist/ls/2G4PP9UICVTOK?ref_=wl_share)
