@@ -5,8 +5,7 @@ THEME = bulrush.PATH
 JINJA_ENVIRONMENT = bulrush.ENVIRONMENT
 JINJA_FILTERS = bulrush.FILTERS
 
-
-PLUGIN_PATHS = ["pelican-plugins"]
+PLUGIN_PATHS = ["assets"]
 PLUGINS = ["assets"]
 
 AUTHOR = "max blasdel"
