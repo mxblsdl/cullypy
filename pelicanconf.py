@@ -5,6 +5,8 @@ THEME = bulrush.PATH
 JINJA_ENVIRONMENT = bulrush.ENVIRONMENT
 JINJA_FILTERS = bulrush.FILTERS
 
+# THEME = "bulrush/bulrush"
+
 PLUGIN_PATHS = ["assets"]
 PLUGINS = ["assets"]
 
