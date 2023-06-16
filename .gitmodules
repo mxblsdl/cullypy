@@ -1,3 +1,3 @@
 [submodule "bulrush"]
-	path = bulrush
+	path = output/theme/bulrush
 	url = https://github.com/textbook/bulrush.git
