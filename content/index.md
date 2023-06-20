@@ -1,25 +1,11 @@
 title: Party Information
-date: 2023-06-01
-name: test
+date: 2023-06-19
 category: Info
+save_as: index.html
 
-<style>
-p{
-
-    font-size:1.75rem !important
-}
-
-h2 {
-    font-size:3.5rem !important
-}
-
-h3 {
-    font-size:2.5rem !important
-}
-</style>
 
 - [Information](#information)
-  - [Party is August 5th.](#party-is-august-5th)
+  - [Party is August 5th](#party-is-august-5th)
   - [Amazon Wishlist](#amazon-wishlist)
   - [Scan QR Code to donate to fund](#scan-qr-code-to-donate-to-fund)
     - [Venmo](#venmo)
@@ -27,7 +13,7 @@ h3 {
 
 # Information
 
-## Party is August 5th.
+## Party is August 5th
 
 ![cully sign]({static}/images/flyer.png)
 
@@ -35,7 +21,6 @@ h3 {
 Contribute items through the [Amazon Wishlist](https://www.amazon.com/hz/wishlist/ls/2G4PP9UICVTOK?ref_=wl_share)
 
 ## Scan QR Code to donate to fund
-
 
 ### Venmo
 ![qrcode venmo]({static}/images/venmo.png)
