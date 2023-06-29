@@ -46,6 +46,7 @@ AUTHOR_FEED_RSS = None
 LINKS = (
     ("Facebook Event Page", "#"),
     ("Amazon Wishlist", "https://www.amazon.com/hz/wishlist/ls/2G4PP9UICVTOK?ref_=wl_share"),
+    ("Volunteer Sign Up", "https://volunteersignup.org/9FX8C")
 )
 DEFAULT_PAGINATION = 10
 
