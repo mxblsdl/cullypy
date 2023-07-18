@@ -1,18 +1,13 @@
-title: Party Information
-date: 2023-06-19
-category: Info
-save_as: index.html
+Title: Party Information
+URL:
+save_as: category/index.html
 
-
-- [Information](#information)
-  - [Party is August 5th](#party-is-august-5th)
-  - [Volunteer](#volunteer)
-  - [Amazon Wishlist](#amazon-wishlist)
-  - [Scan QR Code to donate to fund](#scan-qr-code-to-donate-to-fund)
-    - [Venmo](#venmo)
-    - [Cash App](#cash-app)
-
-# Information
+- [Party is August 5th](#party-is-august-5th)
+- [Volunteer](#volunteer)
+- [Amazon Wishlist](#amazon-wishlist)
+- [Scan QR Code to donate to fund](#scan-qr-code-to-donate-to-fund)
+  - [Venmo](#venmo)
+  - [Cash App](#cash-app)
 
 ## Party is August 5th
 

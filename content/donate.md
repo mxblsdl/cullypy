@@ -1,6 +1,4 @@
 title: Donate Information
-date: 2023-06-19
-category: Donate
 
 
 # Donation Links

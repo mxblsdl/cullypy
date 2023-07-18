@@ -10,10 +10,11 @@ PLUGIN_PATHS = ["assets"]
 PLUGINS = ["assets"]
 
 AUTHOR = "max blasdel"
-SITENAME = "cullyblockparty"
+SITENAME = "CullyBlockParty"
 SITEURL = ""
-
+DEFAULT_DATE = "fs"
 DEFAULT_CATEGORY = "Info"
+
 PATH = "content"
 
 STATIC_PATHS = [
@@ -38,17 +39,14 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-# LINKS = (("Pelican", "https://getpelican.com/"),)
-#          ('Python.org', 'https://www.python.org/'),
-#          ('Jinja2', 'https://palletsprojects.com/p/jinja/'),
-#          ('You can modify those links in your config file', '#'),)
-# Social widget
 LINKS = (
     ("Facebook Event Page", "#"),
-    ("Amazon Wishlist", "https://www.amazon.com/hz/wishlist/ls/2G4PP9UICVTOK?ref_=wl_share"),
-    ("Volunteer Sign Up", "https://volunteersignup.org/9FX8C")
+    (
+        "Amazon Wishlist",
+        "https://www.amazon.com/hz/wishlist/ls/2G4PP9UICVTOK?ref_=wl_share",
+    ),
+    ("Volunteer Sign Up", "https://volunteersignup.org/9FX8C"),
 )
-DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
@@ -62,3 +60,14 @@ MARKDOWN = {
     },
     "output_format": "html5",
 }
+
+CATEGORY_SAVE_AS = ""
+AUTHOR_SAVE_AS = ""
+
+MENUITEMS = (
+    ("Donate", "/donate-information/"),
+    (
+        "Espanol",
+        "https://cullyblockparty-com.translate.goog/?_x_tr_sl=auto&_x_tr_tl=es&_x_tr_hl=en&_x_tr_pto=wapp",
+    ),
+)
