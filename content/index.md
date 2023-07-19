@@ -1,6 +1,6 @@
 Title: Party Information
 URL:
-save_as: category/index.html
+save_as: category/info.html
 
 - [Party is August 5th](#party-is-august-5th)
 - [Volunteer](#volunteer)
