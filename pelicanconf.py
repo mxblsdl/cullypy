@@ -9,7 +9,7 @@ JINJA_FILTERS = bulrush.FILTERS
 PLUGIN_PATHS = ["assets"]
 PLUGINS = ["assets"]
 
-AUTHOR = "max blasdel"
+AUTHOR = ""
 SITENAME = "CullyBlockParty"
 SITEURL = ""
 DEFAULT_DATE = "fs"

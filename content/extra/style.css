@@ -13,3 +13,7 @@ h3 {
 div.section:nth-child(3) > p:nth-child(9) > img:nth-child(1) {
     padding: 0;
 }
+
+table {
+    width: 130%
+}
