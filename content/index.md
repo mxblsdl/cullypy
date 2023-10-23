@@ -2,16 +2,16 @@ Title: Party Information
 URL:
 save_as: category/info.html
 
-- [Party is August 5th](#party-is-august-5th)
+- [2024 Block Party Date: August 3](#2024-block-party-date-august-3)
 - [Volunteer](#volunteer)
 - [Amazon Wishlist](#amazon-wishlist)
 - [Scan QR Code to donate to fund](#scan-qr-code-to-donate-to-fund)
 
-## Party is August 5th
+## 2024 Block Party Date: August 3
 
 | English                                  | Espanol                                                |
 | ---------------------------------------- | ------------------------------------------------------ |
-| ![cully sign]({static}/images/flyer.png) | ![cully sign]({static}/images/flyer_spanish_sized.png) |
+| ![cully sign]({static}/images/flyer_2024.png) | spanish version coming soon |
 
 ## Volunteer
 [Follow this link to sign up to volunteer](https://volunteersignup.org/9FX8C)

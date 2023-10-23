@@ -40,6 +40,7 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (
+    ("Email", "mailto:cullyneighborhoodblockparty@gmail.com"),
     ("Facebook Event Page", "#"),
     (
         "Amazon Wishlist",
